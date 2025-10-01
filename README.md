@@ -1,9 +1,9 @@
 # Hey there!
 
-This repository consists of my solutions for all the exercises that can be found on Mark Newman's book about computational physics. To do so, I used my own scientific library, the swift ScienceKit, that I developed on the fly depending on what I needed to get to the solution. 
+This repository contains my solutions to all the exercises from Mark Newman's Computational Physics. To tackle them, I built and used my own scientific library in Swift, ScienceKit, which I developed progressively as new needs arose while working through the problems.
 
-My first goal with this project was to learn more about the field of computational science. But it quickly turned out that it's also a good opportunity to showcase the capabilities of the swift programming language in scientific applications. I found the language to be simple and elegant, so I tried to make a scientific tool that reflects this characteristics.
+The project began as a way to deepen my understanding of computational science. However, it soon became clear that it also provided a great opportunity to highlight Swift’s potential in scientific computing. I found Swift to be both simple and elegant, and I aimed to design a scientific toolkit that embodies these qualities.
 
 ## How to run those programs.
 
-If you want to run any of these programs by yourself, the easiest course of action is probably to download a copy of the ScienceKit template repository then to copy the code into the main.swift file. All the dependencies are already set so hitting swift run in a terminal inside the template project will suffice. If the exercise requires an external file, just copy it next to main.swift.
+If you’d like to run any of these programs yourself, the simplest way is to download the ScienceKit template repository and copy the exercise code into the main.swift file. All dependencies are already configured, so running swift run in the template’s directory is enough to get started. If an exercise needs an external file, just place it in the same folder as main.swift.
